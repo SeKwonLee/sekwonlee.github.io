@@ -33,6 +33,11 @@ Education
 
 Work experience
 ======
+* <b>Research Intern</b>, 05.2021~08.2021
+  * Microsoft Research, Redmond, WA, US
+  * Duties included: Elastically scaling out AMBROSIA
+  * Mentor: Jonathan Goldstein
+
 * <b>Research Associate Intern</b>, 06.2019~08.2019
   * Hewlett Packard Labs, Palo Alto, CA, US
   * Duties included: Designing far-memory data structures optimized for one-sided operation
