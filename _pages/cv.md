@@ -62,6 +62,7 @@ Work experience
 
 Honors & Awards
 ======
+* <b>UT Austin Dean's Prestigious Fellowship Supplement</b>, 2021
 * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023
 
 Publications
