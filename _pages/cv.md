@@ -15,7 +15,7 @@ Research interest
 =====
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
-  * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design
+  * <b>Focus:</b> Persistent Memory (PM) & Far Memory (Disaggregated DRAM/PM) aware systems design
       * Designing an elastic and high-performance datastore for far memory architectures
       * Designing index structures for PM-based storage systems
       * Improving the performance and reliability of PM-based file systems
@@ -62,6 +62,7 @@ Work experience
 
 Honors & Awards
 ======
+* <b>UT Austin Dean's Prestigious Fellowship Supplement</b>, 2022
 * <b>UT Austin Dean's Prestigious Fellowship Supplement</b>, 2021
 * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023
 
@@ -77,11 +78,13 @@ Skills
   * C, C++, Python, x86 assembly, Bash script
 * <b>System programming</b>
   * Linux kernel, Memcached, Tizen
-* <b>Benchmarks</b>
-  * Filebench, Fio, YCSB, ForestDB-benchmark, MC-benchmark, SPLASH3, Parsec, SPEC SFS2014
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Services
+======
+* <b>Student Volunteer (Slack Chair)</b>, The 28th ACM Symposium on Operating Systems Principles (SOSP 2021)
