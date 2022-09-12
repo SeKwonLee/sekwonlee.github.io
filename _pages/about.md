@@ -24,6 +24,6 @@ and building a system based on Persistent Memory (PM). Currently, I am studying 
 datastore running on far memory architectures.
 
 # News
-* [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2023</b>.
+* [DINOMO](https://sekwonlee.github.io/publications/vldb22_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2022</b>.
 * I did my internship at MSR Redmond this summer working with [Jonathan Goldstein](https://www.microsoft.com/en-us/research/people/jongold/).
 * I was selected as a [2021 Microsoft Research PhD Fellow](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!fellows).
