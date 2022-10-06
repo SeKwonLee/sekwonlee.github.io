@@ -25,7 +25,7 @@ Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color
 ## Workshop
 <b>Se Kwon Lee</b>, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram, <b>[<font color="navy">"RECIPE : Converting Concurrent DRAM Indexes to Persistent-Memory Indexes"</font>](https://sekwonlee.github.io/publications/nvmw20_recipe)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper).
 
-Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/nvmw20_splitfs)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper).
+Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/nvmw20_splitfs)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper, <font color="red">Memorable Paper Award</font>).
 
 Qingrui Liu, Joseph Izraelevitz, <b>Se Kwon Lee</b>, Michael L. Scott, Sam H. Noh, and Changhee Jung, <b>[<font color="navy">"iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory"</font>](https://sekwonlee.github.io/publications/nvmw19_ido)</b>, <i>The 10th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2019</b>, Extended abstract of MICRO 2018 paper).
 
