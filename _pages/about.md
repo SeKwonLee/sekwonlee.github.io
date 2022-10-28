@@ -20,8 +20,8 @@ I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/)
 
 I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 
 distributed systems, and database systems. Especially, my recent studies focus on designing an index structure 
-and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of persistent
-datastore running on far memory architectures.
+and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of an elastic
+and high-performance datastore for far memory architectures.
 
 # News
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2023 (PVLDB 2022)</b>.
