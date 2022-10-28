@@ -8,7 +8,7 @@ author_profile: true
 <b>[<font color="navy">Google Scholar Profile</font>](https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=en)</b>
 
 ## Conference
-<b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/vldb23_dinomo)</b>, <i>Proceedings of the VLDB Endowment</i> (To appear).
+<b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/vldb23_dinomo)</b>, <i>Proceedings of the VLDB Endowment, Volume 15, Issue 13</i> (<b>VLDB 2023</b>, To appear).
 
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/sosp19_splitfs)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
 
