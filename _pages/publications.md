@@ -20,7 +20,9 @@ Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color
 
 <b>Se Kwon Lee</b>, K. Hyun Lim, Hyunsub Song, Beomseok Nam, and Sam H. Noh, <b>[<font color="navy">"WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems"</font>](https://sekwonlee.github.io/publications/fast17)</b>, <i>Proceedings of the 15th USENIX Conference on File and Storage Technology</i> (<b>FAST 2017</b>).
 
-<b>Se Kwon Lee</b>, Hyunsub Song, Young Je Moon, and Sam H. Noh, <b>[<font color="navy">"Experimental Evaluation of File System Data Structures for New Memory based Storage"</font>](https://sekwonlee.github.io/publications/kcc16)</b>, <i>Proceedings of the 2016 Korea Computer Congress</i> (<b>KCC 2016</b>, Domestic conference in South Korea, Written with Korean, <font color="red">Best Paper Award</font>).
+<b>Se Kwon Lee</b>, Hyunsub Song, Young Je Moon, and Sam H. Noh, <b>[<font color="navy">"Experimental Evaluation of File System Data Structures for New Memory based Storage"</font>](https://sekwonlee.github.io/publications/kcc16_lee)</b>, <i>Proceedings of the 2016 Korea Computer Congress</i> (<b>KCC 2016</b>, <font color="red">Best Paper Award</font>).
+
+Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color="navy">"Lightweight Adaptation of Legacy File Systems for Persistent Memory based Storage"</font>](https://sekwonlee.github.io/publications/kcc16_song)</b>, <i>Proceedings of the 2016 Korea Computer Congress</i> (<b>KCC 2016</b>, <font color="red">Best Paper Award</font>).
 
 ## Workshop
 <b>Se Kwon Lee</b>, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram, <b>[<font color="navy">"RECIPE : Converting Concurrent DRAM Indexes to Persistent-Memory Indexes"</font>](https://sekwonlee.github.io/publications/nvmw20_recipe)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper).

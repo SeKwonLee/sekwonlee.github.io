@@ -1,12 +1,12 @@
 ---
 title: "Experimental Evaluation of File System Data Structures for New Memory based Storage"
 collection: publications
-permalink: /publications/kcc16
+permalink: /publications/kcc16_lee
 venue: 'The 2016 Korea Computer Congress (KCC 2016)'
 date: 2016-06-29
-citation: '<strong>Se Kwon Lee</strong>, Hyunsub Song, Young Je Moon, and Sam H. Noh, Proceedings of <i>the 2016 Korea Computer Congress</i> (<strong>KCC 2016</strong>, Domestic conference in South Korea, Written with Korean, <span style="color:red">Best Paper Award</span>).'
+citation: '<strong>Se Kwon Lee</strong>, Hyunsub Song, Young Je Moon, and Sam H. Noh, Proceedings of <i>the 2016 Korea Computer Congress</i> (<strong>KCC 2016</strong>, <span style="color:red">Best Paper Award</span>).'
 ---
-[[paper]](http://sekwonlee.github.io/files/kcc16.pdf)
+[[paper]](http://sekwonlee.github.io/files/kcc16_lee.pdf)
 
 ## Description
 This paper shows empirical studies about NVM-dedicated file system, PMFS. In this work, I measured and analyzed the performance of PMFS while changing index structures and logging mechanisms.
