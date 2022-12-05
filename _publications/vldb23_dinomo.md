@@ -7,3 +7,6 @@ date: 2022-08-15
 citation: '<strong>Sekwon Lee</strong>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, Proceedings of <i>the VLDB Endowment, Volume 15, Issue 13</i> (<strong>VLDB 2023, To appear</strong>).'
 ---
 
+[[paper]](https://www.vldb.org/pvldb/vol15/p4023-lee.pdf)
+[[extended version(arXiv)]](https://arxiv.org/abs/2209.08743)
+[[code]](https://github.com/utsaslab/dinomo)
