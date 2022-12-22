@@ -24,8 +24,6 @@ distributed systems, and database systems. Especially, my recent studies focus o
 and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of an elastic
 and high-performance datastore for far memory architectures.
 
-<b><font color="red">I am on the job market for industry research positions starting Fall 2023.</font></b>
-
 # News
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo) will be presented at [The Third Workshop On Resource Disaggregation and Serverless Computing (WORDS 22)](https://www.wordsworkshop.org/).
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2023 (PVLDB 2022)</b>.
