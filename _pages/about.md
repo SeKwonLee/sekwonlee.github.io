@@ -10,7 +10,7 @@ redirect_from:
 
 ### Life inspired by love and guided by knowledge - Bertrand Russell
 
-I am a Ph.D. student in the Department of Computer Science at The University of Texas at Austin,
+I am a Ph.D. candidate in the Department of Computer Science at The University of Texas at Austin,
 working with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
 [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [LASR](https://www.cs.utexas.edu/lasr/) 
 research group. I am also closely working with [Kimberly Keeton](https://scholar.google.co.kr/citations?user=wR_tv-kAAAAJ&hl=en&oi=ao), [Sharad Singhal](https://scholar.google.co.kr/citations?user=_CKGpJ0AAAAJ&hl=en&oi=sra), 
