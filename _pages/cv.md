@@ -85,6 +85,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Services
+Other Activities
 ======
 * <b>Student Volunteer (Slack Chair)</b>, The 28th ACM Symposium on Operating Systems Principles (SOSP 2021)
+* Presented RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes at Intel Labs (Oct. 2020)
