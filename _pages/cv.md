@@ -22,7 +22,7 @@ Research interest
 
 Education
 ======
-* <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, Fall 2018 ~ Present
+* <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, Fall 2018 ~ Summer 2023 (expected)
   * <b>Advisor</b>: Vijay Chidambaram
 * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
