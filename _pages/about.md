@@ -17,12 +17,15 @@ research group. I am also closely working with [Kimberly Keeton](https://scholar
 and [Marcos K. Aguilera](http://mkaguilera.kawazoe.org/).
 I am a recipient of the [2021 Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!fellows).
 I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/) 
-(Ulsan National Institute of Science and Technology), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
+(Ulsan National Institute of Science and Technology) and my Bachelor's degree in Computer Engineering 
+from [Hongik University](https://en.hongik.ac.kr/index.do), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
 
 I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 
-distributed systems, and database systems. Especially, my recent studies focus on designing an index structure 
-and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of an elastic
-and high-performance datastore for far memory architectures.
+distributed systems, and database systems. Especially, my recent studies focus on building systems for 
+Persistent Memory (PM) and its disaggregation. Currently, I am studying design issues of an elastic, high-performance, 
+scalable, and crash recoverable key-value store for Disaggregated Persistent Memory (DPM) based on RDMA and CXL interconnects.
+
+<span style="color:red">I am currently on the job market!</span>
 
 # News
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo) will be presented at [The Third Workshop On Resource Disaggregation and Serverless Computing (WORDS 22)](https://www.wordsworkshop.org/).

@@ -15,8 +15,8 @@ Research interest
 =====
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
-  * <b>Focus:</b> Persistent Memory (PM) & Far Memory (Disaggregated DRAM/PM) aware systems design
-      * Designing an elastic and high-performance datastore for far memory architectures
+  * <b>Focus:</b> Persistent Memory (PM) & Disaggregated Persistent Memory (DPM) aware systems design
+      * Designing an elastic and high-performance key-value store for DPM based on RDMA and CXL interconnects
       * Designing index structures for PM-based storage systems
       * Improving the performance and reliability of PM-based file systems
 
