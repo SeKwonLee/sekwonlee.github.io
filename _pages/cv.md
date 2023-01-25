@@ -14,11 +14,11 @@ redirect_from:
 Research interest
 =====
 * <b>Computer Systems</b>
-  * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
-  * <b>Focus:</b> Persistent Memory (PM) & Disaggregated Persistent Memory (DPM) aware systems design
-      * Designing an elastic and high-performance key-value store for DPM based on RDMA and CXL interconnects
-      * Designing index structures for PM-based storage systems
-      * Improving the performance and reliability of PM-based file systems
+  * <b>Areas:</b> Storage and File systems, Distributed systems, Operating systems, Database systems
+  * <b>Focus:</b> Next‑generation data‑intensive system designs for emerging memory and disaggregation technologies
+      * Designing elastic, high‑performance, scalable, crash‑recoverable key‑value stores for DPM (Disaggregated Persistent Memory) based on RDMA and CXL interconnects
+      * Designing concurrent, crash‑consistent index structures for PM (Persistent Memory) storage systems
+      * Improving the performance and reliability of PM file systems
 
 Education
 ======
@@ -26,16 +26,13 @@ Education
   * <b>Advisor</b>: Vijay Chidambaram
 * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
-  * Visiting student in Virginia Tech (2017.03 - 2017.05)
-      * Co-research advised by Prof. Changhee Jung
-      * Participating in the project of a new fault-tolerant programming model for PM
 * <b>B.S.</b> in Computer Engineering, <b>Hongik University</b>, 2015
 
 Work experience
 ======
 * <b>Research Intern</b>, 05.2021~08.2021
   * Microsoft Research, Redmond, WA, US
-  * Duties included: Elastically scaling out AMBROSIA
+  * Duties included: Scaling out AMBROSIA, a general framework to build resilient distributed systems
   * Mentor: Jonathan Goldstein
 
 * <b>Research Associate Intern</b>, 06.2019~08.2019
@@ -55,10 +52,11 @@ Work experience
 
 * <b>Researcher</b>, 10.2015~02.2016
   * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
-  * Duties included: Analyzing PM-based file system (PMFS) and evaluating its performance
+  * Duties included: Analyzing performance implications of index structures in PM‑based file systems
   * Supervisor: Sam H. Noh
 
-* <b>Republic of Korea Army</b>, 08.2010~05.2012
+* <b>Signaller</b>, 08.2010~05.2012
+  * ROK DCC, Republic of Korea Armed Forces
 
 Honors & Awards
 ======
@@ -78,6 +76,8 @@ Skills
   * C, C++, Python, x86 assembly, Bash script
 * <b>System programming</b>
   * Linux kernel, Memcached, Tizen
+* <b> Tools and libraries</b>
+  * Kubernetes, Docker, ZeroMQ, protobuf, YCSB benchmarks
 
 Teaching
 ======
@@ -87,5 +87,5 @@ Teaching
 
 Other Activities
 ======
-* <b>Student Volunteer (Slack Chair)</b>, The 28th ACM Symposium on Operating Systems Principles (SOSP 2021)
+* Volunteered as Slack Co‑Chair for SOSP 2021
 * Presented RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes at Intel Labs (Oct. 2020)
