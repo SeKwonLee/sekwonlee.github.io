@@ -28,9 +28,9 @@ scalable, and crash recoverable key-value store for Disaggregated Persistent Mem
 My research aims at designing next-generation systems for emerging memory/storage (i.e., PM, NVM) and disaggregation 
 technologies (RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
 data-intensive systems for Persistent Memory (PM) and Disaggregated Persistent Memory (DPM). My work ranges from 
-system component designs like indexing data structures to diverse full-system studies, such as key-value stores, 
-file systems, and transaction processing systems for a local PM setting. Moreover, he has extended his research to 
-distributed systems for its disaggregation.
+system component designs like indexing data structures [[WORT (FAST'17)](https://sekwonlee.github.io/publications/fast17), [RECIPE (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_recipe)] to diverse full-system studies, such as key-value stores, 
+file systems [[PMAL (ISPASS'17)](https://sekwonlee.github.io/publications/ispass17), [SplitFS (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_splitfs)], and transaction processing systems [[iDO (MICRO'18)](https://sekwonlee.github.io/publications/micro18)] for a local PM setting. Moreover, he has extended his research to 
+distributed systems for its disaggregation [[DINOMO (PVLDB'22)](https://sekwonlee.github.io/publications/vldb23_dinomo)].
 
 <span style="color:red">I am currently on the job market!</span>
 
