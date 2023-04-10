@@ -20,8 +20,8 @@ I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/)
 (Ulsan National Institute of Science and Technology) and my Bachelor's degree in Computer Engineering 
 from [Hongik University](https://en.hongik.ac.kr/index.do), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
 
-My research aims at designing next-generation systems for emerging memory/storage (i.e., PM, NVM) and disaggregation 
-technologies (RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
+My research aims at designing next-generation systems for emerging memory/storage (e.g., PM, NVM) and disaggregation 
+technologies (e.g., RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
 data-intensive systems for Persistent Memory (PM) and Disaggregated Persistent Memory (DPM). My work ranges from 
 system component designs like indexing data structures [[WORT (FAST'17)](https://sekwonlee.github.io/publications/fast17), 
 [RECIPE (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_recipe)] to diverse full-system studies, such as key-value stores, 
