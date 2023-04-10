@@ -25,6 +25,13 @@ distributed systems, and database systems. Especially, my recent studies focus o
 Persistent Memory (PM) and its disaggregation. Currently, I am studying design issues of an elastic, high-performance, 
 scalable, and crash recoverable key-value store for Disaggregated Persistent Memory (DPM) based on RDMA and CXL interconnects.
 
+My research aims at designing next-generation systems for emerging memory/storage (i.e., PM, NVM) and disaggregation 
+technologies (RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
+data-intensive systems for Persistent Memory (PM) and Disaggregated Persistent Memory (DPM). My work ranges from 
+system component designs like indexing data structures to diverse full-system studies, such as key-value stores, 
+file systems, and transaction processing systems for a local PM setting. Moreover, he has extended his research to 
+distributed systems for its disaggregation.
+
 <span style="color:red">I am currently on the job market!</span>
 
 # News
