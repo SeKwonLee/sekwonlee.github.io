@@ -22,7 +22,7 @@ Research interest
 
 Education
 ======
-* <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, Fall 2018 ~ Summer 2023 (expected)
+* <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, 2023
   * <b>Advisor</b>: Vijay Chidambaram
 * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
@@ -30,6 +30,9 @@ Education
 
 Work experience
 ======
+* <b>Research Engineer</b>, 01.2024~
+  * Hewlett Packard Labs, Austin, TX, US
+
 * <b>Research Intern</b>, 05.2021~08.2021
   * Microsoft Research, Redmond, WA, US
   * Duties included: Scaling out AMBROSIA, a general framework to build resilient distributed systems
@@ -85,7 +88,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Other Activities
+Professional Activities
 ======
 * Volunteered as Slack Co‑Chair for SOSP 2021
-* Presented RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes at Intel Labs (Oct. 2020)
+* Invited talk at Intel Labs (Oct. 2020). RECIPE : Converting Concurrent DRAM Indexes to Persistent‑Memory Indexes
+* Invited talk at IBM Research (May. 2023). Data‑Intensive Systems for Emerging Memory and Disaggregation Technologies
+* Reviewer for IEEE Transactions on Computers (2023)
