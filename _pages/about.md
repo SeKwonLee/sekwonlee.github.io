@@ -11,7 +11,7 @@ redirect_from:
 ### Life inspired by love and guided by knowledge - Bertrand Russell
 I am a research engineer at Hewlett Packard Labs.
 I obtained my Ph.D. from the Department of Computer Science at The University of Texas at Austin,
-working with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
+where I worked with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
 [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [LASR](https://www.cs.utexas.edu/lasr/) 
 research group. 
 I was a recipient of the [2021 Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!fellows).
