@@ -31,6 +31,6 @@ distributed systems for its disaggregation [[DINOMO (PVLDB'22)](https://sekwonle
 
 # News
 * Joined Hewlett Packard Labs as Research Engineer.
-* Successfully defended my Ph.D. dissertation
+* Successfully defended my Ph.D. dissertation ([link](https://sekwonlee.github.io/files/phd-dissertation.pdf)).
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo) will be presented at [The Third Workshop On Resource Disaggregation and Serverless Computing (WORDS 22)](https://www.wordsworkshop.org/).
 * [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2023 (PVLDB 2022)</b>.
