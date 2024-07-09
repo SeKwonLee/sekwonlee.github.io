@@ -7,8 +7,16 @@ author_profile: true
 
 <b>[<font color="navy">Google Scholar Profile</font>](https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=en)</b>
 
+## PhD Dissertation
+
+<b>Sekwon Lee</b>, <b>[<font color="navy">"Designing Key-Value Stores for Emerging Memory and Disaggregation Technologies"</font>](https://sekwonlee.github.io/files/phd-dissertation.pdf)</b>, <i>University of Texas at Austin, Department of Computer Science</i>.
+
+## Master Thesis
+
+<b>Sekwon Lee</b>, <b>[<font color="navy">"Write-Optimal Radix Tree: A Deterministic Indexing Structure for Persistent Memory Storage Systems"</font>](https://sekwonlee.github.io/files/master-thesis.pdf)</b>, <i>Ulsan National Institute of Science and Technology (UNIST), Department of Computer Science and Engineering</i>.
+
 ## Conference
-<b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/vldb23_dinomo)</b>, <i>Proceedings of the VLDB Endowment, Volume 15, Issue 13</i> (<b>VLDB 2023</b>, To appear).
+<b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/vldb23_dinomo)</b>, <i>Proceedings of the VLDB Endowment, Volume 15, Issue 13</i> (<b>VLDB 2023</b>).
 
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/sosp19_splitfs)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
 
@@ -25,6 +33,8 @@ Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color
 Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color="navy">"Lightweight Adaptation of Legacy File Systems for Persistent Memory based Storage"</font>](https://sekwonlee.github.io/publications/kcc16_song)</b>, <i>Proceedings of the 2016 Korea Computer Congress</i> (<b>KCC 2016</b>, <font color="red">Best Paper Award</font>).
 
 ## Workshop
+<b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/words22_dinomo)</b>, <i>The 3rd Workshop On Resource Disaggregation and Serverless Computing</i> (<b>WORDS 2022</b>, Extended abstract of VLDB 2023 paper).
+
 <b>Se Kwon Lee</b>, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram, <b>[<font color="navy">"RECIPE : Converting Concurrent DRAM Indexes to Persistent-Memory Indexes"</font>](https://sekwonlee.github.io/publications/nvmw20_recipe)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper).
 
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/nvmw20_splitfs)</b>, <i>The 11th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2020</b>, Extended abstract of SOSP 2019 paper, <font color="red">Memorable Paper Award</font>).
