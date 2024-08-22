@@ -90,7 +90,9 @@ Teaching
 
 Professional Activities
 ======
+* PC Member for SoCC (2024)
+* Reviewer for IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Architecture and Code Optimization, ACM Transactions on Storage (2024)
+* Reviewer for IEEE Transactions on Computers (2023)
+* Invited talk at IBM Research (May. 2023). Data‑Intensive Systems for Emerging Memory and Disaggregation Technologies
 * Volunteered as Slack Co‑Chair for SOSP 2021
 * Invited talk at Intel Labs (Oct. 2020). RECIPE : Converting Concurrent DRAM Indexes to Persistent‑Memory Indexes
-* Invited talk at IBM Research (May. 2023). Data‑Intensive Systems for Emerging Memory and Disaggregation Technologies
-* Reviewer for IEEE Transactions on Computers (2023), IEEE Transactions on Knowledge and Data Engineering (2023)
