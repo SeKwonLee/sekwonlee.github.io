@@ -46,6 +46,8 @@ Qingrui Liu, Joseph Izraelevitz, <b>Se Kwon Lee</b>, Michael L. Scott, Sam H. No
 Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color="navy">"Transforming Legacy File Systems into Persistent Memory Exploiting File Systems with MeLo@V"</font>](https://sekwonlee.github.io/publications/nvmw17_melo)</b>, <i>The 8th Annual Non-Volatile Memories Workshop</i> (<b>NVMW 2017</b>).
 
 ## Poster
+Taeklim Kim, <b>Sekwon Lee</b>, Sergey Serebryakov, Harumi Kuno, Sharad Singhal, and Christopher J. Rossbach, <b>[<font color="navy">"Improving GPU Utilization with a Zero-Copy Object Store for ML Applications"</font>](https://sekwonlee.github.io/publications/sosp24_poster)</b>, <i>Poster at the 30th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2024</b>).
+
 Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, <b>Se Kwon Lee</b>, Mark Lillibridge, Yuvraj Patel, and Wei Zhang, <b>[<font color="navy">"Memory-Oriented Distributed Computing at Rack Scale"</font>](https://sekwonlee.github.io/publications/socc18_poster)</b>, <i>Poster at the 9th ACM Symposium on Cloud Computing</i> (<b>SOCC 2018</b>).
 
 Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, <b>Se Kwon Lee</b>, Mark Lillibridge, Yuvraj Patel, and Wei Zhang, <b>[<font color="navy">"Software challenges for persistent fabric-attached memory"</font>](https://sekwonlee.github.io/publications/osdi18_poster2)</b>, <i>Poster at the 13th USENIX Symposium on Operating Systems Design and Implementation</i> (<b>OSDI 2018</b>).
