@@ -14,18 +14,18 @@ redirect_from:
 Research interest
 =====
 * <b>Computer Systems</b>
-  * <b>Areas:</b> Storage and File systems, Distributed systems, Operating systems, Database systems
+  * <b>Areas:</b> Storage/Memory systems, Distributed systems, Operating systems, Database systems
   * <b>Focus:</b> Next‑generation systems for emerging memory (PM) and disaggregation (RDMA, CXL) technologies
-      * Designing elastic, high‑performance, scalable, crash‑recoverable key‑value stores
-      * Designing concurrent, crash‑consistent index structures for storage systems
-      * Improving the performance and reliability of file systems
+      * Indexing, Caching, Concurrency, Crash consistency, Fault tolerance
 
 Education
 ======
 * <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, 2023
-  * <b>Advisor</b>: Vijay Chidambaram
+  * Advisor: Vijay Chidambaram
+  * Dissertation: [Designing Key-Value Stores for Emerging Memory and Disaggregation Technologies](https://sekwonlee.github.io/files/phd-dissertation.pdf)
 * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
-  * <b>Advisor</b>: Sam H. Noh
+  * Advisor: Sam H. Noh
+  * Thesis: [Write-Optimal Radix Tree: A Deterministic Indexing Structure for Persistent Memory Storage Systems](https://sekwonlee.github.io/files/master-thesis.pdf)
 * <b>B.S.</b> in Computer Engineering, <b>Hongik University</b>, 2015
 
 Work experience
@@ -76,11 +76,11 @@ Publications
 Skills
 ======
 * <b>Languages</b>
-  * C, C++, Python, x86 assembly, Bash script
+  * C, C++, C#, Python
 * <b>System programming</b>
   * Linux kernel, Memcached, Tizen
 * <b> Tools and libraries</b>
-  * Kubernetes, Docker, ZeroMQ, protobuf, YCSB benchmarks
+  * Perf, Kubernetes, Docker, ZeroMQ, protobuf, YCSB benchmarks
 
 Teaching
 ======

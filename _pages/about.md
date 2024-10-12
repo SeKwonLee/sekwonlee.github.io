@@ -23,11 +23,11 @@ My research aims at designing next-generation systems for emerging memory/storag
 technologies (e.g., RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
 data-intensive systems for Persistent Memory (PM) and Disaggregated Persistent Memory (DPM). My work ranges from 
 system component designs like indexing data structures [[WORT (FAST'17)](https://sekwonlee.github.io/publications/fast17), 
-[RECIPE (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_recipe)] to diverse full-system studies, such as key-value stores, 
+[RECIPE (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_recipe)] to diverse full-system studies,
+such as key-value stores [[DINOMO (PVLDB'22)](https://sekwonlee.github.io/publications/vldb23_dinomo)], 
 file systems [[PMAL (ISPASS'17)](https://sekwonlee.github.io/publications/ispass17), 
 [SplitFS (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_splitfs)], and transaction processing systems 
-[[iDO (MICRO'18)](https://sekwonlee.github.io/publications/micro18)] for a local PM setting. Moreover, I have extended my research to 
-distributed systems for its disaggregation [[DINOMO (PVLDB'22)](https://sekwonlee.github.io/publications/vldb23_dinomo)].
+[[iDO (MICRO'18)](https://sekwonlee.github.io/publications/micro18)] for a local PM setting.
 
 # News
 * Joined Hewlett Packard Labs as Research Engineer.
