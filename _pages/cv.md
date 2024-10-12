@@ -15,10 +15,10 @@ Research interest
 =====
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage and File systems, Distributed systems, Operating systems, Database systems
-  * <b>Focus:</b> Next‑generation data‑intensive system designs for emerging memory and disaggregation technologies
-      * Designing elastic, high‑performance, scalable, crash‑recoverable key‑value stores for DPM (Disaggregated Persistent Memory) based on RDMA and CXL interconnects
-      * Designing concurrent, crash‑consistent index structures for PM (Persistent Memory) storage systems
-      * Improving the performance and reliability of PM file systems
+  * <b>Focus:</b> Next‑generation systems for emerging memory (PM) and disaggregation (RDMA, CXL) technologies
+      * Designing elastic, high‑performance, scalable, crash‑recoverable key‑value stores
+      * Designing concurrent, crash‑consistent index structures for storage systems
+      * Improving the performance and reliability of file systems
 
 Education
 ======
@@ -30,7 +30,7 @@ Education
 
 Work experience
 ======
-* <b>Research Engineer</b>, 01.2024~
+* <b>Research Engineer</b>, 01.2024~Present
   * Hewlett Packard Labs, Austin, TX, US
 
 * <b>Research Intern</b>, 05.2021~08.2021
