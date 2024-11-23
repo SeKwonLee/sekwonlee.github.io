@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Life inspired by love and guided by knowledge - Bertrand Russell
 I am a research engineer at Hewlett Packard Labs.
 I obtained my Ph.D. from the Department of Computer Science at The University of Texas at Austin,
 where I worked with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
