@@ -15,7 +15,7 @@ Research interest
 =====
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage/Memory systems, Distributed systems, Operating systems, Database systems
-  * <b>Focus:</b> Next‑generation systems for emerging memory (PM) and disaggregation (RDMA, CXL) technologies
+  * <b>Focus:</b> Next‑generation systems for emerging memory/storage and disaggregation (RDMA, CXL) technologies
       * Indexing, Caching, Concurrency, Crash consistency, Fault tolerance
 
 Education
