@@ -29,7 +29,8 @@ file systems [[PMAL (ISPASS'17)](https://sekwonlee.github.io/publications/ispass
 [[iDO (MICRO'18)](https://sekwonlee.github.io/publications/micro18)] for a local PM setting.
 
 # News
+* Serving on the program committee for ACM SoCC 2025.
+* Serving on the program committee for ACM SYSTOR 2025.
+* Serving on the program committee for IEEE CLOUD 2025.
+* Serving on the program committee for ACM SoCC 2024.
 * Joined Hewlett Packard Labs as Research Engineer.
-* Successfully defended my Ph.D. dissertation ([link](https://sekwonlee.github.io/files/phd-dissertation.pdf)).
-* [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo) will be presented at [The Third Workshop On Resource Disaggregation and Serverless Computing (WORDS 22)](https://www.wordsworkshop.org/).
-* [DINOMO](https://sekwonlee.github.io/publications/vldb23_dinomo), our work on an elastic high-performance key-value store for disaggregated persistent memory, has been accepted to <b>VLDB 2023 (PVLDB 2022)</b>.

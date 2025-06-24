@@ -90,7 +90,7 @@ Teaching
 
 Professional Activities
 ======
-* PC Member for ACM SoCC (2024), IEEE CLOUD (2025), ACM SYSTOR (2025)
+* PC Member for ACM SoCC (2024, 2025), IEEE CLOUD (2025), ACM SYSTOR (2025)
 * Reviewer for IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Architecture and Code Optimization, ACM Transactions on Storage (2024)
 * Reviewer for IEEE Transactions on Computers (2023)
 * Invited talk at IBM Research (May. 2023). Data‑Intensive Systems for Emerging Memory and Disaggregation Technologies
