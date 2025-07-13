@@ -8,29 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at Hewlett Packard Labs.
+I am a researcher at HPE Labs. My research interest lies in next-generation systems for emerging
+memory/storage and disaggregation technologies.
 I obtained my Ph.D. from the Department of Computer Science at The University of Texas at Austin,
 where I worked with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
 [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [LASR](https://www.cs.utexas.edu/lasr/) 
 research group. 
-I was a recipient of the [2021 Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!fellows).
 I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/) 
 (Ulsan National Institute of Science and Technology) and my Bachelor's degree in Computer Engineering 
 from [Hongik University](https://en.hongik.ac.kr/index.do), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
-
-My research aims at designing next-generation systems for emerging memory/storage (e.g., PM, NVM) and disaggregation 
-technologies (e.g., RDMA, CXL interconnects). In particular, I have been mainly working on building efficient and reliable 
-data-intensive systems for Persistent Memory (PM) and Disaggregated Persistent Memory (DPM). My work ranges from 
-system component designs like indexing data structures [[WORT (FAST'17)](https://sekwonlee.github.io/publications/fast17), 
-[RECIPE (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_recipe)] to diverse full-system studies,
-such as key-value stores [[DINOMO (PVLDB'22)](https://sekwonlee.github.io/publications/vldb23_dinomo)], 
-file systems [[PMAL (ISPASS'17)](https://sekwonlee.github.io/publications/ispass17), 
-[SplitFS (SOSP'19)](https://sekwonlee.github.io/publications/sosp19_splitfs)], and transaction processing systems 
-[[iDO (MICRO'18)](https://sekwonlee.github.io/publications/micro18)] for a local PM setting.
 
 # News
 * Serving on the program committee for ACM SoCC 2025.
 * Serving on the program committee for ACM SYSTOR 2025.
 * Serving on the program committee for IEEE CLOUD 2025.
 * Serving on the program committee for ACM SoCC 2024.
-* Joined Hewlett Packard Labs as Research Engineer.
+* Joined HPE Labs as Research Engineer.

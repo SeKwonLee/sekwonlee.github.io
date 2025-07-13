@@ -31,7 +31,7 @@ Education
 Work experience
 ======
 * <b>Research Engineer</b>, 01.2024~Present
-  * Hewlett Packard Labs, Austin, TX, US
+  * HPE Labs, Austin, TX, US
 
 * <b>Research Intern</b>, 05.2021~08.2021
   * Microsoft Research, Redmond, WA, US
