@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sekwon Lee"
 title_separator          : "-"
 name                     : &name "Sekwon Lee"
-description              : &description "Research Engineer at Hewlett Packard Labs"
+description              : &description "Research Engineer at HPE Labs"
 url                      : https://sekwonlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sekwonlee.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Sekwon Lee"
   avatar           : "profile.jpeg"
-  bio              : "Research Engineer at Hewlett Packard Labs"
+  bio              : "Research Engineer at HPE Labs"
   location         : "Austin, Texas"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=dqhN0pkAAAAJ&hl=en"
