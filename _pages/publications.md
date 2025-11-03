@@ -16,6 +16,9 @@ author_profile: true
 <b>Sekwon Lee</b>, <b>[<font color="navy">"Write-Optimal Radix Tree: A Deterministic Indexing Structure for Persistent Memory Storage Systems"</font>](https://sekwonlee.github.io/files/master-thesis.pdf)</b>, <i>Ulsan National Institute of Science and Technology (UNIST), Department of Computer Science and Engineering</i>.
 
 ## Conference
+
+Clarete Riana Crasta, John L Byrne, Abhishek Dwaraki, David Emberson, Harumi Anne Kuno, <b>Sekwon Lee</b>, Ramya Ahobala Rao, Shreyas Vinayaka Basri K S, Amitha Chandrachari, Chinmay Ghosh, Rishi Kesh K Rajak, Sriram Ravishankar, Porno Shome, and Lance Evans, <b>[<font color="navy">"Global Distributed Client-side Cache for DAOS"</font>](https://sekwonlee.github.io/publications/cug25)</b>, <i>Proceedings of the 2025 Cray User Group</i> (<b>CUG 2025</b>).
+
 <b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/vldb23_dinomo)</b>, <i>Proceedings of the VLDB Endowment, Volume 15, Issue 13</i> (<b>VLDB 2023</b>).
 
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/sosp19_splitfs)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
@@ -33,6 +36,9 @@ Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color
 Hyunsub Song, Young Je Moon, <b>Se Kwon Lee</b>, and Sam H. Noh, <b>[<font color="navy">"Lightweight Adaptation of Legacy File Systems for Persistent Memory based Storage"</font>](https://sekwonlee.github.io/publications/kcc16_song)</b>, <i>Proceedings of the 2016 Korea Computer Congress</i> (<b>KCC 2016</b>, <font color="red">Best Paper Award</font>).
 
 ## Workshop
+
+Abhishek Dwaraki, Sreenivas R. Sukumar, Christopher D. Rickett, Clarete Riana Crasta, Harumi Kuno, Michael Neal, Pankaj Pandey, Ryan Yates, Karlon West, Amar Gopal Chittiboyina, Ikhlas A. Khan, John Byrne, <b>Sekwon Lee</b>, and David Emberson, <b>[<font color="navy">"A Query Engine for Scientific Data Exploration Using Theory, Simulation, and Artificial Intelligence Models"</font>](https://sekwonlee.github.io/publications/ai4s25)</b>, <i>Proceedings of the Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis</i> (<b>SC Workshops 2025, AI4S</b>).
+
 John Byrne, Clarete Crasta, Abhishek Dwaraki, David Emberson, Harumi Kuno, <b>Sekwon Lee</b>, Sharad Singhal, Ramya Ahobala Rao, Shreyas Vinayaka Basri K S, Amitha C, Chinmay Ghosh, Rishi Kesh Rajak, Sriram Ravishankar, Porno Shome, Lance Evans, Sherin George, Kevan Rehm, Myungjun (MJ) Son, Taeklim Kim, Shiyue (Jason) Hou, <b>[<font color="navy">"A Global In-Memory Cache and Computation Tier for DAOS"</font>](https://sekwonlee.github.io/publications/pdsw24)</b>, <i>The 9th International Parallel Data Systems Workshop</i> (<b>PDSW 2024</b>, Work In Progress paper).
 
 <b>Sekwon Lee</b>, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, and Vijay Chidambaram, <b>[<font color="navy">"DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory"</font>](https://sekwonlee.github.io/publications/words22_dinomo)</b>, <i>The 3rd Workshop On Resource Disaggregation and Serverless Computing</i> (<b>WORDS 2022</b>, Extended abstract of VLDB 2023 paper).
