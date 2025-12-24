@@ -19,6 +19,7 @@ I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/)
 from [Hongik University](https://en.hongik.ac.kr/index.do), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
 
 # News
+* Serving on the program committee for ACM SoCC 2026.
 * Serving on the program committee for ACM SoCC 2025.
 * Serving on the program committee for ACM SYSTOR 2025.
 * Serving on the program committee for IEEE CLOUD 2025.

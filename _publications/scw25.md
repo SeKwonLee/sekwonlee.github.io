@@ -1,8 +1,10 @@
 ---
 title: "A Query Engine for Scientific Data Exploration Using Theory, Simulation, and Artificial Intelligence Models"
 collection: publications
-permalink: /publications/ai4s25
+permalink: /publications/scw25
 venue: 'The Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025, AI4S)'
 date: 2025-11-16
 citation: 'Abhishek Dwaraki, Sreenivas R. Sukumar, Christopher D. Rickett, Clarete Riana Crasta, Harumi Kuno, Michael Neal, Pankaj Pandey, Ryan Yates, Karlon West, Amar Gopal Chittiboyina, Ikhlas A. Khan, John Byrne, <strong>Sekwon Lee</strong>, and David Emberson, <strong>A Query Engine for Scientific Data Exploration Using Theory, Simulation, and Artificial Intelligence Models</strong>, <i>Proceedings of the Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis</i> (<strong>SC Workshops 2025, AI4S</strong>).'
 ---
+
+[[paper]](https://sekwonlee.github.io/files/ids-scworkshops25.pdf)
