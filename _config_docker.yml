@@ -1,0 +1,3 @@
+url: ""
+# Required for local Docker builds to avoid missing repository errors
+repository: "sekwonlee/sekwonlee.github.io"
